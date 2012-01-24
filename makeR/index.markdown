@@ -1,7 +1,7 @@
 ---
 layout: default
 title: makeR
-sub.title: An R package for managing document templates and versions
+subtitle: An R package for managing document templates and versions
 ---
 
 
