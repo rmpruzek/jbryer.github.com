@@ -2,6 +2,7 @@
 layout: default
 title: makeR
 subtitle: An R package for managing document templates and versions
+menu: menu_makeR.html
 ---
 
 
