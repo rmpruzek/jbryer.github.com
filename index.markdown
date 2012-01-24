@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JBryer.Github.com
+title: jbryer.github.com
 sub.title: R Packages by Jason Bryer
 ---
 
