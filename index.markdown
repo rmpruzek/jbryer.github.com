@@ -1,4 +1,5 @@
 ---
+layout: default
 title: JBryer.Github.com
 sub.title: R Packages by Jason Bryer
 ---
